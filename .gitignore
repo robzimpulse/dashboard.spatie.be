@@ -3,6 +3,7 @@
 .idea
 _ide_helper*.php
 .phpstorm.meta.php
+*.iml
 
 # BACK END
 /vendor
